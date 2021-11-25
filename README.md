@@ -1,3 +1,4 @@
-🌊 Geass bot est un bot qui permet à la fois d'assurer la sécurité du serveur et exécuter des commandes funs !
+Bot qui ressemble au CrowBot. Il permet de faire _Anti-Raid, Fun_ etc..
 
-(bot de skid)
+
+Plusieurs commandes viennent de GitHub. (bot de skid)
